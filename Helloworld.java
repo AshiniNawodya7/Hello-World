@@ -1,5 +1,23 @@
 class Helloworld {
     public static void main(String[]args){
-        System.out.println("hello world");
+        boolean test=false;
+       // int i=1;
+        
+            while(test){
+                System.out.println("hello");
+                System.out.println("i am ashini");
+            }
+
+
+
+
+            
+
+
+
+
+
+
+        
     }
 }
